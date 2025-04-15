@@ -7,3 +7,9 @@ Deployment refers to the process of moving code from development or testing envi
 Testing ensures that the application works as expected. It can include unit testing, integration testing, system testing and automated testing as part of Continuous Integration (CI).
 
 IAM : give access to particular service
+
+HOW TO CREATE AN AWS ACCOUNT:
+
+Go to aws management console.
+
+Sign In -> Create a new accoint -> Enter all the details -> Enter debit card and pan card details-> Account is created
