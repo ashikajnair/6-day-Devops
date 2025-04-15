@@ -26,5 +26,6 @@ cd /var/www/html
 
 ls
 
-> index.html
+index.html
+
 vi index.html - to open file
