@@ -8,7 +8,7 @@ Enter name of the server -> Select ubuntu OS -> Select the instance type -> Key 
 
 EC2 instance is created
 
-Go to instances dashboard and connect the instance and run it
+Go to instances dashboard and connect the instance.
 
 Some of the commands used are:
 
